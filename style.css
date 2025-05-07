@@ -1,0 +1,258 @@
+body { 
+  font-family: cursive;
+  backround: #f06d06;
+  color: teal;
+  text-align: center;
+  } 
+.murray {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #77AF9C;
+  border-radius: 40px;
+  padding: 50px;
+  margin: 50px;
+  color: #285943;
+  background-color: #AAFCB8;
+  text-align: center;
+  vertical-align: top;
+}
+
+.dbook {
+  font-family: monospace;
+  width: 500px;
+  border: 5px solid #77AF9C;
+  border-radius: 40px;
+  padding: 50px;
+  margin: 50px;
+  color: #285943;
+  background-color: #AAFCB8;
+  text-align: center;
+  vertical-align: top;
+}
+.lebron {
+  font-family: monospace;
+  width: 500px;
+  border: 5px dotted #B2E6D4;
+  border-radius: 40px;
+  padding: 50px;
+  margin: 50px;
+  color: #689689;
+  background-color: #A49E8D;
+  text-align: center;
+}
+.kyrie {
+  font family: consolas;
+  width: 500px;
+  border: 5px solid #BD4089;
+  border-radius: 30px;
+  padding: 25px;
+  margin 50px;
+  color: #683257;
+  background-color: #C2C1C2;
+  text-align: center;
+}
+.steph {
+  font family: arial;
+  width: 525px;
+  border: 5px;
+  border-radius: 25px;
+  padding: 35px;
+  margin 45px;
+  color: orange;
+  background-color: black;
+  text-align: center;
+}
+.kd {
+  font-family: cursive;
+  width: 105px;
+  border: 5px;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 50px;
+  color: orange;
+  background-color: #010101;
+  text-align: center;
+}
+.jordan {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #BD4089;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #683257;
+  background-color: #C2C1C2;
+  text-align: center;
+  
+}
+  .luka {
+  font-family: cursive;
+  width: 550px;
+  border: 10px solid #BB8A89;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #977390;
+  background-color: #0D160B;
+  text-align: center;
+  
+}
+.dmitch {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #CF8BA9;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #CEC2FF;
+  background-color: #B15E6C;
+  text-align: center;
+  
+}
+.joker {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #FF2C55;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #E2294F;
+  background-color: #3C0919;
+  text-align: center;
+  
+}
+.ant {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #8D86C9;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #725AC1;
+  background-color: #242038;
+  text-align: center;
+  
+}
+.diesel {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #BFB7B6;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #DCF763;
+  background-color: #435058;
+  text-align: center;
+  
+}
+.lillard {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #540D6E;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #1F271B;
+  background-color: #EE4266;
+  text-align: center;
+  
+}
+.ad {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #241023;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #D5E68D;
+  background-color: #6B0504;
+  text-align: center;
+  
+}
+.giannis {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #F3E8EE;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #475B63;
+  background-color: #BACDB0;
+  text-align: center;
+  
+}
+.butler {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #79BEEE;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #8A84E2;
+  background-color: #B7D3F2;
+  text-align: center;
+  
+}
+.jt  {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #708D81;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #F4D58D;
+  background-color: #001427;
+  text-align: center;
+  
+}
+.jt  {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #A4A9AD;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #23001E;
+  background-color: #20A39E;
+  text-align: center;
+  
+}
+.ja {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #4A6670;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #668F80;
+  background-color: #D6A2AD;
+  text-align: center;
+  
+}
+.sga  {
+  font-family: cursive;
+  width: 105px;
+  border: 5px solid #4B5267;
+  border-radius: 25px;
+  padding: 20px;
+  margin: 50px;
+  color: #2E294E;
+  background-color: #BE97C6;
+  text-align: center;
+  
+}
+.garland {
+  font-family: cursive;
+  width: 500px;
+  border: 5px solid #7B0D1E;
+  border-radius: 30px;
+  padding: 25px;
+  margin: 50px;
+  color: #F8E5EE;
+  background-color: #211103;
+  text-align: center;
+  
+}
+div {
+ 
+           }
